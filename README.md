@@ -1,2 +1,2 @@
 # Database-SQL
-Our client is Terror’s Real Estate Agency. One of the jobs is to map all relevant properties and figure out all geographical points related. We must find the relationship between data and provide the best possible outcome to our clients.
+As a hired person for the online retail store “Reliant retail limited” I have tried to find answers to the following as per given by the company in order for them to make better data driven decision that will improve the growth of the company. 
